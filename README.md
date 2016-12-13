@@ -14,7 +14,7 @@ Japanese
 [http://www.petitmonte.com/javascript/howto_effect_js.html](http://www.petitmonte.com/javascript/howto_effect_js.html)  
 
 ## Caution
-When an HTML file is not uploaded to a server, I may not work depending on the specifications of the browser definitely.
+If the HTML file is not uploaded to the server, it may not work depending on browser specifications.
 
 ## Contact
 sorry, no warranty, no support. English Can understand only 3-year-old level.  
