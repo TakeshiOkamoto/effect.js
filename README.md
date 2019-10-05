@@ -5,7 +5,7 @@ English
 sorry, Japanese only.
 
 Japanese  
-[http://www.tokikaze.org/](http://www.tokikaze.org/)  
+[https://www.petitmonte.com/labo/tokikaze/](https://www.petitmonte.com/labo/tokikaze/)  
 
 ## How to use 
 
