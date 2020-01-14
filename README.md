@@ -11,6 +11,36 @@ Japanese
 
 Japanese  
 [http://www.petitmonte.com/javascript/howto_effect_js.html](http://www.petitmonte.com/javascript/howto_effect_js.html)  
+  
+## Example of use 
+
+<p></p>
+<table>
+  <tr><th>元画像</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_1.jpg" /></td></tr>
+  <tr><th>グレースケール</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_2.jpg" /></td></tr>
+  <tr><th>セピアカラー</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_3.jpg" /></td></tr>
+  <tr><th>ネガポジ</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_4.jpg" /></td></tr>
+  <tr><th>Xor</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_5.jpg" /></td></tr>
+  <tr><th>回転</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_6.jpg" /></td></tr>
+  <tr><th>反転</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_7.jpg" /></td></tr>
+  <tr><th>明るさ調整</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_8.jpg" /></td></tr>
+  <tr><th>コントラスト調整</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_9.jpg" /></td></tr>
+  <tr><th>ガンマ調整</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_10.jpg" /></td></tr>
+
+  <tr><th>RGB調整</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_11.jpg" /></td></tr>
+  <tr><th>RGB交換</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_12.jpg" /></td></tr>
+  <tr><th>二階調化</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_13.png" /></td></tr>
+  <tr><th>ノイズ</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_14.jpg" /></td></tr>
+  <tr><th>拡散</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_15.jpg" /></td></tr>
+  <tr><th>モザイク</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_16.jpg" /></td></tr>
+  <tr><th>手ぶれ</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_17.jpg" /></td></tr>
+  <tr><th>鉛筆画調</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_18.jpg" /></td></tr>
+  <tr><th>エンボス</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_19.jpg" /></td></tr>
+  <tr><th>ソラリゼーション</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_20.jpg" /></td></tr>
+  <tr><th>ポスタリゼーション</th><td><img src="https://github.com/TakeshiOkamoto/effect.js/blob/master/images/howto_effect_js_21.jpg" /></td></tr>
+  <tr><th>その他</th><td>・ぼかし(平均化/弱/強)<br />・シャープ(弱/強)<br />・濃度抽出<br />・ノーマライズ<br />・イコライズ<br />・トーンカーブ<br />・カスタムフィルタ<br />など</td></tr>
+</table>
+<p></p>
 
 ## Caution
 If the HTML file is not uploaded to the server, it may not work depending on browser specifications.
