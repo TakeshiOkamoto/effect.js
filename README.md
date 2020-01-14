@@ -1,6 +1,6 @@
 # effect.js
 Can easily perform about 30 types of  image processing.  
-( 約30種類の画像エフェクトを簡単に実行できます。)  
+( 約30種類の画像加工を簡単に実行できます。)  
 
 <a href="https://github.com/TakeshiOkamoto/GIF.js">GIF.js</a>、<a href="https://github.com/TakeshiOkamoto/PNG.js">PNG.js</a>、<a href="https://github.com/TakeshiOkamoto/BMP.js">BMP.js</a>、<a href="https://github.com/TakeshiOkamoto/MedianCut.js">MedianCut.js</a>、<a href="https://github.com/TakeshiOkamoto/resampling.js">resampling.js</a>  
 When combined with the above, you can easily create an "image application" with a browser.  
