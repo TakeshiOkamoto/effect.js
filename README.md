@@ -9,12 +9,12 @@ When combined with the above, you can easily create an "image application" with 
 Example ( 例 )  
 [https://www.petitmonte.com/labo/tokikaze/](https://www.petitmonte.com/labo/tokikaze/)  
   
-## How to use (使い方)
+## How to use ( 使い方 )
 
 Japanese   
 [http://www.petitmonte.com/javascript/howto_effect_js.html](http://www.petitmonte.com/javascript/howto_effect_js.html)  
   
-## Example of use (使用例)
+## Example of use ( 使用例 )
 
 <p></p>
 <table>
