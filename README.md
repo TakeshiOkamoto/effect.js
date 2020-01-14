@@ -1,18 +1,12 @@
 # effect.js
 Can easily perform about 30 types of  image processing.
-## DEMO
-English  
-sorry, Japanese only.
 
-Japanese  
-[https://www.petitmonte.com/labo/tokikaze/](https://www.petitmonte.com/labo/tokikaze/)  
-
-## How to use 
+## How to use (使い方)
 
 Japanese  
 [http://www.petitmonte.com/javascript/howto_effect_js.html](http://www.petitmonte.com/javascript/howto_effect_js.html)  
   
-## Example of use 
+## Example of use (使用例)
 
 <p></p>
 <table>
