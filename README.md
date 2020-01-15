@@ -41,6 +41,11 @@ When combined with the following libraries, you can easily create "image apps" i
 Japanese   
 [http://www.petitmonte.com/javascript/howto_effect_js.html](http://www.petitmonte.com/javascript/howto_effect_js.html)  
   
+## Image app example ( 画像アプリの例 )
+ 
+Japanese   
+[https://www.petitmonte.com/labo/tokikaze/](https://www.petitmonte.com/labo/tokikaze/)  
+  
 ## Caution
 If the HTML file is not uploaded to the server, it may not work depending on browser specifications.
 
