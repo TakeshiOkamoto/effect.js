@@ -6,11 +6,6 @@ When combined with the above, you can easily create an "image application" with 
 ( 次のライブラリと組み合わせると、ブラウザで「画像アプリ」を簡単に作成可能です。)  
 <a href="https://github.com/TakeshiOkamoto/GIF.js">GIF.js</a>、<a href="https://github.com/TakeshiOkamoto/PNG.js">PNG.js</a>、<a href="https://github.com/TakeshiOkamoto/BMP.js">BMP.js</a>、<a href="https://github.com/TakeshiOkamoto/MedianCut.js">MedianCut.js</a>、<a href="https://github.com/TakeshiOkamoto/resampling.js">resampling.js</a>  
  
-## Image app example ( 画像アプリの例 )
- 
-Japanese   
-[https://www.petitmonte.com/labo/tokikaze/](https://www.petitmonte.com/labo/tokikaze/)  
-  
 ## Example of use ( effect.jsの使用例 )
 
 <p></p>
