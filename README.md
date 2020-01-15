@@ -2,7 +2,7 @@
 Can easily perform about 30 types of  image processing.  
 ( 約30種類の画像加工を簡単に実行できます。)  
 
-When combined with the above, you can easily create an "image application" with a browser.  
+When combined with the following libraries, you can easily create "image apps" in your browser.  
 ( 次のライブラリと組み合わせると、ブラウザで「画像アプリ」を簡単に作成可能です。)  
 <a href="https://github.com/TakeshiOkamoto/GIF.js">GIF.js</a>、<a href="https://github.com/TakeshiOkamoto/PNG.js">PNG.js</a>、<a href="https://github.com/TakeshiOkamoto/BMP.js">BMP.js</a>、<a href="https://github.com/TakeshiOkamoto/MedianCut.js">MedianCut.js</a>、<a href="https://github.com/TakeshiOkamoto/resampling.js">resampling.js</a>  
  
