@@ -6,7 +6,7 @@ When combined with the above, you can easily create an "image application" with 
 ( 次のライブラリと組み合わせると、ブラウザで「画像アプリ」を簡単に作成可能です。)  
 <a href="https://github.com/TakeshiOkamoto/GIF.js">GIF.js</a>、<a href="https://github.com/TakeshiOkamoto/PNG.js">PNG.js</a>、<a href="https://github.com/TakeshiOkamoto/BMP.js">BMP.js</a>、<a href="https://github.com/TakeshiOkamoto/MedianCut.js">MedianCut.js</a>、<a href="https://github.com/TakeshiOkamoto/resampling.js">resampling.js</a>  
  
-## Example of use ( effect.jsの使用例 )
+## Example of use ( 使用例 )
 
 <p></p>
 <table>
@@ -36,7 +36,7 @@ When combined with the above, you can easily create an "image application" with 
 </table>
 <p></p>
 
-## How to use ( effect.jsの使い方 )
+## How to use ( 使い方 )
 
 Japanese   
 [http://www.petitmonte.com/javascript/howto_effect_js.html](http://www.petitmonte.com/javascript/howto_effect_js.html)  
